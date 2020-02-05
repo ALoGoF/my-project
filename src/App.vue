@@ -50,6 +50,5 @@ export default {
 <style>
 #app {
   height: 100vh;
-  min-width: 1230px;
 }
 </style>
